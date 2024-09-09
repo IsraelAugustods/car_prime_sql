@@ -36,6 +36,8 @@ Todos os dados usados aqui foram obtidos a partir de uma consulta, que está dis
 
 Essa tabela mostra o desempenho mensal de uma empresa em termos de leads, vendas, receita, conversão e ticket médio ao longo de 12 meses. Cada linha representa um mês, indicando o número de leads gerados, as vendas realizadas, a receita em milhares de reais, a taxa de conversão (percentual de leads que se tornaram vendas) e o ticket médio por venda (valor médio gasto por cliente). Por exemplo, em agosto de 2021, foram gerados 6.353 leads, resultando em 1.254 vendas, com uma receita de R$ 68.274,09 mil, uma conversão de 19,73% e um ticket médio de R$ 54,44 mil.
 
+A consulta que gera essa tabela está, [aqui!](https://drive.google.com/file/d/1HPrfMBeiwzr8l7VUEiKic0Sg92g_lBEs/view?usp=sharing)
+
 <p align="center">
   <img alt="r2" width="80%" src="https://github.com/user-attachments/assets/54a4af59-eacb-418a-8cc7-c9adf8e57f66">
 </p>
