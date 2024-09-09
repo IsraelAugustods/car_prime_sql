@@ -26,7 +26,7 @@ Todos os dados usados aqui foram obtidos a partir de uma consulta, que está dis
 </p> 
 
 ## Destaques do Projeto
-### Top 5 lojas que mais vemderam
+### Top 5 lojas que mais venderam
 
 <p align="center">
   <img alt="r1" width="90%" src="https://github.com/user-attachments/assets/ed0b47b2-c475-4c5e-b8ee-fb749690960e">
