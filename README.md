@@ -17,7 +17,7 @@ O nome "Car Prime" foi um nome fictício criado para a empresa fictícia utiliza
 
 Este projeto foi desenvolvido como parte de um curso que realizei na [Udemy](https://www.udemy.com/course/sql-para-analise-de-dados/?couponCode=24T4MT90924A), voltado para o aprendizado de SQL desde o nível iniciante até o avançado. 
 
-Além disso, ele foi todo executado dentro do [pgAdmin4](https://www.pgadmin.org/), que é uma ferramenta gráfica de administração para bancos de dados PostgreSQL. O pgAdmin4 permite criar, modificar e consultar dados de forma intuitiva, facilitando a execução de consultas SQL, o gerenciamento de tabelas e a visualização dos resultados. Sua interface amigável foi essencial para a aplicação prática dos conceitos aprendidos durante o curso, proporcionando um ambiente eficiente para a manipulação dos dados e a realização das análises propostas.
+Além disso, ele foi todo executado dentro do [pgAdmin4](https://www.pgadmin.org/), que é uma ferramenta gráfica de administração para bancos de dados PostgreSQL. O pgAdmin4 permite criar, modificar e consultar dados de forma intuitiva, facilitando a execução de consultas SQL, o gerenciamento de tabelas e a visualização dos resultados.
 
 ## Fonte dos Dados
 Todos os dados usados aqui foram obtidos a partir de uma consulta, que está disponibilizada [aqui!](https://drive.google.com/file/d/1mXYSWTDpLf2mEmLTtMTgw2azk_IeJz2g/view?usp=sharing).
